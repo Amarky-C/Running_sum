@@ -1,4 +1,5 @@
 #Calculating a running sum
+#A user will enter numbers that will be added to the sum and when a negative number is encountered stop adding numbers and write out the final result
 sum = 0, -1, 2, 32, 40, 55, -8, 50, -15
 number = -10
 
